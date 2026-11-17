@@ -29,7 +29,7 @@ export function filterRows(rows, st) {
   const min = st.minLen === '' ? -Infinity : Number(st.minLen);
   const max = st.maxLen === '' ? Infinity : Number(st.maxLen);
   return rows.filter(r =>
-    (!q || r._piece.includes(q)) &&
+    (!q || r._piece.includes(q) || r._composer.includes(q)) &&
     (!st.composer || r.composer === st.composer) &&
     (!st.performer || r.performers.some(p => p.name === st.performer)) &&
     (!st.instrument || r.performers.some(p => p.instrument === st.instrument)) &&

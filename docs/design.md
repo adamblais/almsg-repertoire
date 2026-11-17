@@ -129,7 +129,7 @@ that disallows everything.
  Data from ALMSG meeting programs since September 2026 · adultslearningmusic.com
 ```
 
-- **Live search** on piece title as you type. It ignores accents, case and punctuation
+- **Live search** on piece title or composer as you type. It ignores accents, case and punctuation
   ("gnossienne" matches "1ère Gnossienne", "op28" matches "Op. 28").
 - **Dropdowns** (composer, performer, instrument) are built from the data, sorted, each with a count.
   Picking a performer matches any entry they appear in, including duets. Instrument matches any

@@ -90,3 +90,9 @@ test('sort by meeting format', () => {
   assert.equal(sortRows(rows, 'format', 'asc')[0].format, 'In person');
   assert.equal(sortRows(rows, 'format', 'desc')[0].format, 'Zoom');
 });
+
+test('search matches composer as well as piece', () => {
+  assert.deepEqual(run({ q: 'satie' }), ['Gnossienne No. 1']);
+  assert.equal(run({ q: 'chopin' }).length, 2);
+  assert.equal(run({ q: 'frederic' }).length, 2);
+});
