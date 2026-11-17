@@ -1,0 +1,1345 @@
+{
+ "updated": "2026-11-17",
+ "meetings": [
+  {
+   "date": "2026-09-12",
+   "format": "Zoom",
+   "venue": null,
+   "source": "Meeting ALMSG - September 12 2026.docx",
+   "performances": [
+    {
+     "piece": "A Celtic Dream",
+     "composer": "Michele McLaughlin",
+     "performers": [
+      {
+       "name": "Joanne M.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Joanne - \"A Celtic Dream\" by Michele McLaughlin ~ 3mn"
+    },
+    {
+     "piece": "Hallelujah",
+     "composer": "Leonard Cohen",
+     "performers": [
+      {
+       "name": "Kathleen B.",
+       "instrument": "Piano"
+      },
+      {
+       "name": "Kaylene D.",
+       "instrument": "Violin"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Kathleen and Kaylene - Hallelujah by Leonard Cohen ~ 3 mn",
+     "check": true
+    },
+    {
+     "piece": "Sonatina in C major, Op. 36 No. 1: I. Allegro",
+     "composer": "Muzio Clementi",
+     "performers": [
+      {
+       "name": "Lorne W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1.5 min",
+     "minutes": 1.5,
+     "wip": false,
+     "original": "Lorne - Sonatina Op.36 No.1 First Movement by M. Clementi ~ 1.5 mn"
+    },
+    {
+     "piece": "To Zanarkand (from Final Fantasy X)",
+     "composer": "Nobuo Uematsu",
+     "performers": [
+      {
+       "name": "Adam B.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~3.5 min",
+     "minutes": 3.5,
+     "wip": false,
+     "original": "Adam - To Zanarkand from Final Fantasy X by Nobuo Uematsu ~ 3.5 mn"
+    },
+    {
+     "piece": "Romance in D-flat major, Op. 24 No. 9 (excerpt)",
+     "composer": "Jean Sibelius",
+     "performers": [
+      {
+       "name": "Megan W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": true,
+     "original": "Megan - Romance Op. 24 No. 9 - J. Sibelius - ~ 3 mn (WIP/excerpt)"
+    },
+    {
+     "piece": "Violin Concerto No. 1 in G minor, Op. 26: II. Adagio",
+     "composer": "Max Bruch",
+     "performers": [
+      {
+       "name": "Kaylene D.",
+       "instrument": "Violin"
+      }
+     ],
+     "length": "8 min",
+     "minutes": 8,
+     "wip": false,
+     "original": "Kaylene, violin -  Concerto in G Minor 2nd mvt Adagio by Max Bruch , 8 mn"
+    },
+    {
+     "piece": "A Town with an Ocean View",
+     "composer": "Joe Hisaishi",
+     "performers": [
+      {
+       "name": "Lorne W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1.5 min",
+     "minutes": 1.5,
+     "wip": false,
+     "original": "Lorne - A Town with an Ocean View\" by Joe Hisaishi ~1.5 mn"
+    },
+    {
+     "piece": "Cello Suite No. 1 in G major, BWV 1007: Minuets I & II",
+     "composer": "Johann Sebastian Bach",
+     "performers": [
+      {
+       "name": "Kaylene D.",
+       "instrument": "Viola"
+      }
+     ],
+     "length": "~4 min",
+     "minutes": 4,
+     "wip": false,
+     "original": "Kaylene, viola - Cello Suite No 1 in G Major Minuet 1 &2 by JS Bach ~ 4mn"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "format": "In person",
+   "venue": "Steinway",
+   "source": "32. Meeting ALMSG - September 26 2026.docx",
+   "performances": [
+    {
+     "piece": "Hallelujah",
+     "composer": "Leonard Cohen",
+     "performers": [
+      {
+       "name": "Kathleen B.",
+       "instrument": "Piano"
+      },
+      {
+       "name": "Kaylene D.",
+       "instrument": "Violin"
+      }
+     ],
+     "length": "1.5–3 min",
+     "minutes": 2.25,
+     "wip": false,
+     "original": "Kathleen and Kaylene - Leonard Cohen’s Hallelujah, between 1.5 to 3 mn",
+     "check": true
+    },
+    {
+     "piece": "Make You Feel My Love",
+     "composer": "Bob Dylan",
+     "performers": [
+      {
+       "name": "Linda M.",
+       "instrument": "Voice"
+      },
+      {
+       "name": "Nicole G.",
+       "instrument": "Voice"
+      }
+     ],
+     "length": "~3.5 min",
+     "minutes": 3.5,
+     "wip": false,
+     "original": "Linda and Nicole G., voice - “Make You Feel My Love” by Bob Dylan ~ 3.5 mn.",
+     "check": true
+    },
+    {
+     "piece": "Ordinary World",
+     "composer": "Duran Duran",
+     "performers": [
+      {
+       "name": "Ron R.",
+       "instrument": "Guitar"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Ron, guitar - \"Ordinary World\" by Duran Duran ~ 3 mn"
+    },
+    {
+     "piece": "Gymnopédie No. 1",
+     "composer": "Erik Satie",
+     "performers": [
+      {
+       "name": "Lorne W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Lorne - 1ère Gymnopédie by Erik Satie ~ 3 mn"
+    },
+    {
+     "piece": "Elegy for the Arctic",
+     "composer": "Ludovico Einaudi",
+     "performers": [
+      {
+       "name": "Adam B.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Adam - Elegy for the Arctic - Ludovico Einaudi ~ 3 mn"
+    },
+    {
+     "piece": "Minuet in G major, BWV Anh. 114",
+     "composer": "Johann Sebastian Bach",
+     "performers": [
+      {
+       "name": "Nami P.",
+       "instrument": "Piano"
+      },
+      {
+       "name": "Maki M.",
+       "instrument": "Violin"
+      }
+     ],
+     "length": "3–4 min",
+     "minutes": 3.5,
+     "wip": false,
+     "original": "Nami and Maki, violin - Minuet in G by J.S. Bach ~ 3-4 mn"
+    },
+    {
+     "piece": "The Song of Twilight",
+     "composer": "Yoshinao Nakada",
+     "performers": [
+      {
+       "name": "Ivy T.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1.5 min",
+     "minutes": 1.5,
+     "wip": false,
+     "original": "Ivy - The song of twilight by Yoshinao Nakada ~1.5 mn"
+    },
+    {
+     "piece": "Romance in D-flat major, Op. 24 No. 9 (excerpt)",
+     "composer": "Jean Sibelius",
+     "performers": [
+      {
+       "name": "Megan W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~4 min",
+     "minutes": 4,
+     "wip": true,
+     "original": "Megan - Romance Op. 24 No. 9 - J. Sibelius (WIP/excerpt) ~ 4 mn"
+    },
+    {
+     "piece": "Six Studies in English Folk Song, Nos. 1 and 5",
+     "composer": "Ralph Vaughan Williams",
+     "performers": [
+      {
+       "name": "Graham E.",
+       "instrument": "Piano"
+      },
+      {
+       "name": "Kaylene D.",
+       "instrument": "Viola"
+      }
+     ],
+     "length": "~4 min",
+     "minutes": 4,
+     "wip": false,
+     "original": "Graham and Kaylene, viola - English Folksongs by R. Vaughan William, no. 1 and 5 of 6 Etudes in English Folksongs ~ 4 mn"
+    },
+    {
+     "piece": "Primavera",
+     "composer": "Ludovico Einaudi",
+     "performers": [
+      {
+       "name": "Adam B.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~3.5 min",
+     "minutes": 3.5,
+     "wip": false,
+     "original": "Adam - Primavera - Ludovico Einaudi ~ 3.5 mn"
+    },
+    {
+     "piece": "I Never Cry",
+     "composer": "Alice Cooper",
+     "performers": [
+      {
+       "name": "Ron R.",
+       "instrument": "Guitar"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Ron, guitar - \"I Never Cry\" by Alice Cooper ~ 3 mn"
+    },
+    {
+     "piece": "Impromptu in A-flat major, Op. posth. 142 No. 2, D. 935 (bars 1–42)",
+     "composer": "Franz Schubert",
+     "performers": [
+      {
+       "name": "Lorne W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Lorne - Schubert Impromptu in Ab major: Allegretto (Op post. 142 (D 935) no.2) [Bars 1-42] ~ 3mn"
+    },
+    {
+     "piece": "Sonatina in G major",
+     "composer": "Ludwig van Beethoven",
+     "performers": [
+      {
+       "name": "Ivy T.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1.5 min",
+     "minutes": 1.5,
+     "wip": false,
+     "original": "Ivy - Sonatina in G.  by L. van Beethoven ~1.5 mn"
+    },
+    {
+     "piece": "Fantaisie-Impromptu, Op. 66",
+     "composer": "Frédéric Chopin",
+     "performers": [
+      {
+       "name": "Nami P.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~5 min",
+     "minutes": 5,
+     "wip": false,
+     "original": "Nami, piano - Fantasie Impromptu Op. 66 by F. Chopin ~ 5mn"
+    },
+    {
+     "piece": "Violin Sonata No. 5 in F major, Op. 24 “Spring”: I. Allegro",
+     "composer": "Ludwig van Beethoven",
+     "performers": [
+      {
+       "name": "Kaylene D.",
+       "instrument": "Violin"
+      }
+     ],
+     "length": "~8 min",
+     "minutes": 8,
+     "wip": false,
+     "original": "Kaylene, violin – Spring sonata, 1st movement in F major by Beethoven ~ 8 mn"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "format": "In person",
+   "venue": "Steinway",
+   "source": "Meeting ALMSG - October 17, 2026.docx",
+   "performances": [
+    {
+     "piece": "Rêverie",
+     "composer": "Pyotr Ilyich Tchaikovsky",
+     "performers": [
+      {
+       "name": "Joanne M.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~3.5 min",
+     "minutes": 3.5,
+     "wip": false,
+     "original": "Joanne - Peter I. Tchaikovsky, \"Reverie\" ~ 3.5 mn"
+    },
+    {
+     "piece": "Andante in G minor",
+     "composer": "Georg Philipp Telemann",
+     "performers": [
+      {
+       "name": "Barbara L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~30 sec",
+     "minutes": 0.5,
+     "wip": false,
+     "original": "Barbara - Georg Philipp Telemann, - Andante in G Minor ~ 30 seconds"
+    },
+    {
+     "piece": "Kleine Romanze, Op. 68 No. 19 (Album for the Young)",
+     "composer": "Robert Schumann",
+     "performers": [
+      {
+       "name": "Sandra L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~2.25 min",
+     "minutes": 2.25,
+     "wip": false,
+     "original": "Sandra - R. Schumann, “Klein Romanze” Album für die Jugend Op 68 #19 ~ 2.25 mn"
+    },
+    {
+     "piece": "Cool Cat Waltz",
+     "composer": "Katya Pine",
+     "performers": [
+      {
+       "name": "Linda M.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~2 min",
+     "minutes": 2,
+     "wip": false,
+     "original": "Linda - Katya Pine, Cool Cat Waltz again, ~ 2 mn"
+    },
+    {
+     "piece": "Hallelujah",
+     "composer": "Leonard Cohen",
+     "performers": [
+      {
+       "name": "Kathleen B.",
+       "instrument": "Piano"
+      },
+      {
+       "name": "Kaylene D.",
+       "instrument": "Violin"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Kathleen and Kaylene, violin – L. Cohen, Hallelujah ~ 3mn"
+    },
+    {
+     "piece": "Who Wants to Live Forever",
+     "composer": "Brian May",
+     "performers": [
+      {
+       "name": "Ron R.",
+       "instrument": "Guitar"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Ron, guitar -  Brian May , \"Who Wants To Live Forever\"  ~ 3 mn"
+    },
+    {
+     "piece": "Prelude No. 1 in C major, BWV 846 (Well-Tempered Clavier)",
+     "composer": "Johann Sebastian Bach",
+     "performers": [
+      {
+       "name": "Lorne W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~2.5 min",
+     "minutes": 2.5,
+     "wip": false,
+     "original": "Lorne - JS. Bach, Well-Tempered Klavier Prelude 1 (BWV 846) ~ 2.5 mn"
+    },
+    {
+     "piece": "Piano Sonata in F major, K. 280: II. Adagio",
+     "composer": "Wolfgang Amadeus Mozart",
+     "performers": [
+      {
+       "name": "Dorothy W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~6.5 min",
+     "minutes": 6.5,
+     "wip": false,
+     "original": "Dorothy – WA Mozart, Sonata in F, K 280 (II. Adagio) ~ 6.5 mn"
+    },
+    {
+     "piece": "Terra's Theme (from Final Fantasy VI)",
+     "composer": "Nobuo Uematsu",
+     "performers": [
+      {
+       "name": "Adam B.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~4 min",
+     "minutes": 4,
+     "wip": false,
+     "original": "Adam - Nobuo Uematsu, Terra's Theme (from Final Fantasy VI) ~ 4 mn"
+    },
+    {
+     "piece": "La Réjouissance (Music for the Royal Fireworks)",
+     "composer": "George Frideric Handel",
+     "performers": [
+      {
+       "name": "Nami P.",
+       "instrument": "Piano"
+      },
+      {
+       "name": "Maki M.",
+       "instrument": "Violin"
+      }
+     ],
+     "length": "~2 min",
+     "minutes": 2,
+     "wip": false,
+     "original": "Nami and Maki, violin – GF Handel, La Réjouissance by Handel ~2 mn"
+    },
+    {
+     "piece": "Ständchen",
+     "composer": "Franz Schubert",
+     "performers": [
+      {
+       "name": "Graham E.",
+       "instrument": "Voice"
+      },
+      {
+       "name": "Marc-André F.",
+       "instrument": "Voice"
+      }
+     ],
+     "length": "~4 min",
+     "minutes": 4,
+     "wip": false,
+     "original": "Graham and Marc-André, tenor – F Schubert / Ständchen ~ 4mn"
+    },
+    {
+     "piece": "Du bist die Ruh",
+     "composer": "Franz Schubert",
+     "performers": [
+      {
+       "name": "Graham E.",
+       "instrument": "Voice"
+      },
+      {
+       "name": "Marc-André F.",
+       "instrument": "Voice"
+      }
+     ],
+     "length": "~4 min",
+     "minutes": 4,
+     "wip": false,
+     "original": "Graham and Marc-André, tenor – F Schubert / Du bist die Ruh ~ 4mn"
+    },
+    {
+     "piece": "Piano Sonata in A minor, K. 310: I. Allegro maestoso",
+     "composer": "Wolfgang Amadeus Mozart",
+     "performers": [
+      {
+       "name": "Alan L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~5 min",
+     "minutes": 5,
+     "wip": false,
+     "original": "Alan – WA Mozart sonata in A minor K 310, 1st mvt ~ 5 mn"
+    },
+    {
+     "piece": "Romance in D-flat major, Op. 24 No. 9",
+     "composer": "Jean Sibelius",
+     "performers": [
+      {
+       "name": "Megan W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~5 min",
+     "minutes": 5,
+     "wip": false,
+     "original": "Megan - J. Sibelius, Romance Op. 24 No. 9 ~ 5 mn"
+    },
+    {
+     "piece": "Intermezzo in A major, Op. 118 No. 2",
+     "composer": "Johannes Brahms",
+     "performers": [
+      {
+       "name": "Claude V.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~5 min",
+     "minutes": 5,
+     "wip": false,
+     "original": "Claude – J. Brahms, Intermezzo Op. 118 No. 2 ~ 5 mn"
+    },
+    {
+     "piece": "Violin Sonata No. 5 in F major, Op. 24 “Spring”: I. Allegro",
+     "composer": "Ludwig van Beethoven",
+     "performers": [
+      {
+       "name": "Claude V.",
+       "instrument": "Piano"
+      },
+      {
+       "name": "Kaylene D.",
+       "instrument": "Violin"
+      }
+     ],
+     "length": "~8 min",
+     "minutes": 8,
+     "wip": false,
+     "original": "Claude and Kaylene, violin - Lv Beethoven, Spring sonata, no 5 op.24,1st mvt ~ 8 mn"
+    },
+    {
+     "piece": "This Guy's Disguised",
+     "composer": "Bradley Sowash",
+     "performers": [
+      {
+       "name": "Barbara L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1 min",
+     "minutes": 1,
+     "wip": false,
+     "original": "Barbara - Bradley Sowash, This Guy's Disguised by ~1 min"
+    },
+    {
+     "piece": "Arioso (arr. Denes Agay)",
+     "composer": "Johann Sebastian Bach",
+     "performers": [
+      {
+       "name": "Dorothy W.",
+       "instrument": "Piano"
+      },
+      {
+       "name": "Sandra L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Dorothy and Sandra - JS Bach, Arioso with Sandra. Arr. Denes Agay ~ 3mn"
+    },
+    {
+     "piece": "Andare",
+     "composer": "Ludovico Einaudi",
+     "performers": [
+      {
+       "name": "Adam B.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~4 min",
+     "minutes": 4,
+     "wip": false,
+     "original": "Adam - Ludovico Einaudi, Andare ~ 4 mn"
+    },
+    {
+     "piece": "Minuet in G major, BWV Anh. 114",
+     "composer": "Johann Sebastian Bach",
+     "performers": [
+      {
+       "name": "Lorne W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1 min",
+     "minutes": 1,
+     "wip": false,
+     "original": "Lorne – JS Bach Minuet in G Major attr. Christian Petzhold (BWV Anh. 114) ~1 mn"
+    },
+    {
+     "piece": "Excursions, Op. 20: II. In slow blues tempo",
+     "composer": "Samuel Barber",
+     "performers": [
+      {
+       "name": "Graham E.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~4 min",
+     "minutes": 4,
+     "wip": false,
+     "original": "Graham – S Barber, Excursions: II. In slow blues tempo ~ 4 mn"
+    },
+    {
+     "piece": "Waltz in A-flat major, Op. 69 No. 1",
+     "composer": "Frédéric Chopin",
+     "performers": [
+      {
+       "name": "Nami P.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~4 min",
+     "minutes": 4,
+     "wip": false,
+     "original": "Nami, piano – F Chopin, Waltz Op.69 No.1 ~ 4 mn"
+    },
+    {
+     "piece": "Intermezzo in B minor, Op. 119 No. 1 (excerpt)",
+     "composer": "Johannes Brahms",
+     "performers": [
+      {
+       "name": "Megan W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1 min",
+     "minutes": 1,
+     "wip": true,
+     "original": "Megan – J. Brahms, Intermezzo Op. 119 No. 1 (Excerpt/WIP) ~ 1 min"
+    },
+    {
+     "piece": "Suite for Viola, Group 1: No. 1 Prelude",
+     "composer": "Ralph Vaughan Williams",
+     "performers": [
+      {
+       "name": "Kaylene D.",
+       "instrument": "Viola"
+      }
+     ],
+     "length": "~3.5 min",
+     "minutes": 3.5,
+     "wip": false,
+     "original": "Kaylene, viola - Suite for Viola Group 1 No. 1 Prelude by Vaughan Williams ~ 3.5 mn"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "format": "Zoom",
+   "venue": null,
+   "source": "Meeting ALMSG - October 31, 2026.docx",
+   "performances": [
+    {
+     "piece": "Andante in G minor",
+     "composer": "Georg Philipp Telemann",
+     "performers": [
+      {
+       "name": "Barbara L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~30 sec",
+     "minutes": 0.5,
+     "wip": false,
+     "original": "Barbara - Andante in G Minor by Georg Philipp Telemann ~ 30 seconds"
+    },
+    {
+     "piece": "Thinking of Summer",
+     "composer": "Catherine Rollin",
+     "performers": [
+      {
+       "name": "Nicole A.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1.5 min",
+     "minutes": 1.5,
+     "wip": true,
+     "original": "Nicole H.: Thinking of Summer by Catherine Rollin (WIP) ~ 1.5 mn",
+     "check": true
+    },
+    {
+     "piece": "Song Without Words, Op. 30 No. 3 “Consolation” (excerpt)",
+     "composer": "Felix Mendelssohn",
+     "performers": [
+      {
+       "name": "Sandra L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~4 min",
+     "minutes": 4,
+     "wip": false,
+     "original": "Sandra, piano - Consolation op. 30 no.3 by Felix Mendohlssohn, excerpt ~ 4 min"
+    },
+    {
+     "piece": "Walk on the Wild Side",
+     "composer": "Lou Reed",
+     "performers": [
+      {
+       "name": "Ron R.",
+       "instrument": "Guitar"
+      }
+     ],
+     "length": "~4 min",
+     "minutes": 4,
+     "wip": false,
+     "original": "Ron, guitar - Lou Reed's \"Take a Walk on the Wild Side\" ~ 4mn"
+    },
+    {
+     "piece": "Musette in D major, BWV Anh. 126",
+     "composer": "Johann Sebastian Bach",
+     "performers": [
+      {
+       "name": "Adam B.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1 min 10 sec",
+     "minutes": 1.17,
+     "wip": false,
+     "original": "Adam: Musette in D Major - J.S. Bach ~ 1mn 10 sec"
+    },
+    {
+     "piece": "Concertino in G major, Op. 8 No. 4",
+     "composer": "Adolf Huber",
+     "performers": [
+      {
+       "name": "Nami P.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~5 min",
+     "minutes": 5,
+     "wip": false,
+     "original": "Nami: Concertino in G Major Op. 8, No. 4 by Adolf Huber ~ 5 mn",
+     "check": true
+    },
+    {
+     "piece": "Fantasia No. 12 in A minor (3 movements)",
+     "composer": "Georg Philipp Telemann",
+     "performers": [
+      {
+       "name": "Kaylene D.",
+       "instrument": "Violin"
+      }
+     ],
+     "length": "~5 min",
+     "minutes": 5,
+     "wip": false,
+     "original": "Kaylene, violin: Telemann Fantasia 12 in A minor, 3 movements ~ 5 mn"
+    },
+    {
+     "piece": "This Guy's Disguised",
+     "composer": "Bradley Sowash",
+     "performers": [
+      {
+       "name": "Barbara L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1 min",
+     "minutes": 1,
+     "wip": false,
+     "original": "Barbara - This Guy's Disguised by Bradley Sowash ~1 min"
+    },
+    {
+     "piece": "Sakura",
+     "composer": "Traditional (Japanese)",
+     "performers": [
+      {
+       "name": "Sandra L.",
+       "instrument": "Cello"
+      }
+     ],
+     "length": "~1 min",
+     "minutes": 1,
+     "wip": false,
+     "original": "Sandra, cello - \"Sakura\" Japanese Folk Song ~ 1 min"
+    },
+    {
+     "piece": "Waltz in B minor, Op. 69 No. 2",
+     "composer": "Frédéric Chopin",
+     "performers": [
+      {
+       "name": "Nami P.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~5 min",
+     "minutes": 5,
+     "wip": false,
+     "original": "Nami: Waltz Op. 69 No. 2 by F. Chopin ~ 5 mn"
+    },
+    {
+     "piece": "Suite for Viola, Group 1: No. 1 Prelude",
+     "composer": "Ralph Vaughan Williams",
+     "performers": [
+      {
+       "name": "Kaylene D.",
+       "instrument": "Viola"
+      }
+     ],
+     "length": "~3.5 min",
+     "minutes": 3.5,
+     "wip": false,
+     "original": "Kaylene, viola: Suite for Viola Group 1 Prelude Vaughan Williams Viola ~ 3.5 mn"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "format": "In person",
+   "venue": "Steinway",
+   "source": "Meeting ALMSG - November 14th, 2026.docx",
+   "performances": [
+    {
+     "piece": "Ashokan Farewell",
+     "composer": "Jay Ungar",
+     "performers": [
+      {
+       "name": "Edel L.",
+       "instrument": "Flute"
+      }
+     ],
+     "length": "~2 min",
+     "minutes": 2,
+     "wip": false,
+     "original": "Edel, flute - Ashokan Farewell by Jay Ungar ~ 2mn"
+    },
+    {
+     "piece": "Mary Had a Little Lamb (arr. Dianne Goolkasian Rahbee)",
+     "composer": "Traditional (English nursery rhyme)",
+     "performers": [
+      {
+       "name": "Barbara L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~30 sec",
+     "minutes": 0.5,
+     "wip": false,
+     "original": "Barbara- \"Mary Had a Little Lamb\" English nursery rhyme arr. Dianne Goolkasian Rahbee, ~ 30 sec"
+    },
+    {
+     "piece": "A Song for You",
+     "composer": "Catherine Rollin",
+     "performers": [
+      {
+       "name": "Nicole A.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1.5 min",
+     "minutes": 1.5,
+     "wip": false,
+     "original": "Nicole A. - A Song For You by Catherine Rollin ~ 1.5 mn"
+    },
+    {
+     "piece": "Hallelujah",
+     "composer": "Leonard Cohen",
+     "performers": [
+      {
+       "name": "Kathleen B.",
+       "instrument": "Piano"
+      },
+      {
+       "name": "Kaylene D.",
+       "instrument": "Violin"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Kathleen and Kaylene, violin - Hallelujah by Leonard Cohen ~ 3mn"
+    },
+    {
+     "piece": "Make You Feel My Love",
+     "composer": "Bob Dylan",
+     "performers": [
+      {
+       "name": "Linda M.",
+       "instrument": "Voice"
+      },
+      {
+       "name": "Nicole G.",
+       "instrument": "Voice"
+      }
+     ],
+     "length": "3.5–4 min",
+     "minutes": 3.75,
+     "wip": false,
+     "original": "Linda and Nicole G., voice - \"Make You Feel My Love\" by Bob Dylan. ~ 3.5-4 mn",
+     "check": true
+    },
+    {
+     "piece": "Perfect Day",
+     "composer": "Lou Reed",
+     "performers": [
+      {
+       "name": "Ron R.",
+       "instrument": "Guitar"
+      }
+     ],
+     "length": "3–4 min",
+     "minutes": 3.5,
+     "wip": false,
+     "original": "Ron, guitar - \"Perfect Day\" by Lou Reed ~ 3-4 mn"
+    },
+    {
+     "piece": "Kleine Romanze, Op. 68 No. 19 (Album for the Young)",
+     "composer": "Robert Schumann",
+     "performers": [
+      {
+       "name": "Sandra L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~2 min",
+     "minutes": 2,
+     "wip": false,
+     "original": "Sandra - \"Kleine Romanze\" No. 19 from Album für die Jugend Op.68 Robert Schumann ~ 2 minutes."
+    },
+    {
+     "piece": "Gnossienne No. 1",
+     "composer": "Erik Satie",
+     "performers": [
+      {
+       "name": "Lorne W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Lorne - 1ère Gnossienne by Erik Satie ~ 3 mn"
+    },
+    {
+     "piece": "The Stormy Sea",
+     "composer": "Anne Crosby Gaudet",
+     "performers": [
+      {
+       "name": "Dorothy W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~2 min",
+     "minutes": 2,
+     "wip": false,
+     "original": "Dorothy - The Stormy Sea by Anne Crosby Gaudet ~ 2mn"
+    },
+    {
+     "piece": "Arioso",
+     "composer": "Johann Sebastian Bach",
+     "performers": [
+      {
+       "name": "Maki M.",
+       "instrument": "Violin"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Maki, violin - J.S Bach Arioso ~ 3 mn"
+    },
+    {
+     "piece": "The Earth Prelude",
+     "composer": "Ludovico Einaudi",
+     "performers": [
+      {
+       "name": "Adam B.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Adam - The Earth Prelude by Ludovico Einaudi ~ 3 mn"
+    },
+    {
+     "piece": "Sonatina No. 2 on Three Christmas Carols: I. There's a Song in the Air",
+     "composer": "Karl P. Harrington (melody)",
+     "performers": [
+      {
+       "name": "Ivy T.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1.5 min",
+     "minutes": 1.5,
+     "wip": false,
+     "original": "Ivy - Sonatina No.2 on Three Christmas Carols: 1st movement (There’s a song in the air) - based on the melody by Karl P.  Harrington ~ 1 .5 mn"
+    },
+    {
+     "piece": "Petite Suite, L. 65: III. Menuet",
+     "composer": "Claude Debussy",
+     "performers": [
+      {
+       "name": "Megan W.",
+       "instrument": "Piano"
+      },
+      {
+       "name": "Claude V.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~5 min",
+     "minutes": 5,
+     "wip": true,
+     "original": "Megan and Claude, piano duet - Petite Suite, L.65: III. Menuet - C. Debussy ~ 5 (WIP)"
+    },
+    {
+     "piece": "Prelude in A minor, Op. 28 No. 2",
+     "composer": "Frédéric Chopin",
+     "performers": [
+      {
+       "name": "Helen L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~2 min",
+     "minutes": 2,
+     "wip": false,
+     "original": "Helen - Prelude in a minor op 28 no 2, by F. Chopin ~ 2 mn"
+    },
+    {
+     "piece": "Parla più piano",
+     "composer": "Nino Rota",
+     "performers": [
+      {
+       "name": "Graham E.",
+       "instrument": "Voice"
+      },
+      {
+       "name": "Marc-André F.",
+       "instrument": "Voice"
+      }
+     ],
+     "length": "~3.5 min",
+     "minutes": 3.5,
+     "wip": false,
+     "original": "Graham and Marc-André, voice - \"Parla piu piano\", by Nino Rota, ~ 3.5 mn"
+    },
+    {
+     "piece": "Étude in E major, Op. 10 No. 3",
+     "composer": "Frédéric Chopin",
+     "performers": [
+      {
+       "name": "Nami P.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~5 min",
+     "minutes": 5,
+     "wip": false,
+     "original": "Nami, piano - Etude Op. 10 No. 3 by F. Chopin ~ 5mn"
+    },
+    {
+     "piece": "Prelude to a Prelude",
+     "composer": "John Burge",
+     "performers": [
+      {
+       "name": "Alan L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~2.5 min",
+     "minutes": 2.5,
+     "wip": false,
+     "original": "Alan - \"Prelude to a Prelude\" by John Burge ~ 2.5 mn"
+    },
+    {
+     "piece": "Ave Maria, S. 182",
+     "composer": "Franz Liszt",
+     "performers": [
+      {
+       "name": "Claude V.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~5.5 min",
+     "minutes": 5.5,
+     "wip": true,
+     "original": "Claude – Ave Maria S182 by F. Liszt (WIP) ~ 5.5 mn"
+    },
+    {
+     "piece": "Violin Concerto No. 1 in G minor, Op. 26: II. Adagio",
+     "composer": "Max Bruch",
+     "performers": [
+      {
+       "name": "Claude V.",
+       "instrument": "Piano"
+      },
+      {
+       "name": "Kaylene D.",
+       "instrument": "Violin"
+      }
+     ],
+     "length": "~8 min",
+     "minutes": 8,
+     "wip": false,
+     "original": "Claude and Kaylene, violin - Adagio from concerto in G minor, op 26 by M. Bruch ~ 8 mn"
+    },
+    {
+     "piece": "King of the Fairies",
+     "composer": "Traditional (Irish)",
+     "performers": [
+      {
+       "name": "Edel L.",
+       "instrument": "Flute"
+      }
+     ],
+     "length": "~2 min",
+     "minutes": 2,
+     "wip": false,
+     "original": "Edel, flute -  King of the Fairies. Traditional Irish ~ 2mn"
+    },
+    {
+     "piece": "Winter Wonderland (arr. Dan Coates)",
+     "composer": "Felix Bernard",
+     "performers": [
+      {
+       "name": "Barbara L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1 min",
+     "minutes": 1,
+     "wip": false,
+     "original": "Barbara - \"Winter Wonderland\" Arranged by Dan Coates - 1 mn"
+    },
+    {
+     "piece": "Arioso",
+     "composer": "Johann Sebastian Bach",
+     "performers": [
+      {
+       "name": "Dorothy W.",
+       "instrument": "Piano"
+      },
+      {
+       "name": "Sandra L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~2 min",
+     "minutes": 2,
+     "wip": false,
+     "original": "Dorothy and Sandra, piano duet: Arioso, J.S. Bach ~ 2mn"
+    },
+    {
+     "piece": "Lullaby from The Firebird",
+     "composer": "Igor Stravinsky",
+     "performers": [
+      {
+       "name": "Dorothy W.",
+       "instrument": "Piano"
+      },
+      {
+       "name": "Sandra L.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~2 min",
+     "minutes": 2,
+     "wip": false,
+     "original": "Dorothy and Sandra, piano duet: Lullaby from The Firebird, I. Stravinsky ~ 2mn"
+    },
+    {
+     "piece": "Le temps des cathédrales (lyrics Luc Plamondon)",
+     "composer": "Richard Cocciante",
+     "performers": [
+      {
+       "name": "Graham E.",
+       "instrument": "Voice"
+      },
+      {
+       "name": "Marc-André F.",
+       "instrument": "Voice"
+      }
+     ],
+     "length": "~4 min",
+     "minutes": 4,
+     "wip": false,
+     "original": "Graham and Marc-André, voice -  \"Le temps des cathédrales\" by Richard Cocciante, (lyrics by Luc Plamondon) ~ 4 mns"
+    },
+    {
+     "piece": "Prelude No. 1 in C major, BWV 846 (Well-Tempered Clavier)",
+     "composer": "Johann Sebastian Bach",
+     "performers": [
+      {
+       "name": "Lorne W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~3 min",
+     "minutes": 3,
+     "wip": false,
+     "original": "Lorne - Bach's Well Tempered Clavier Prelude I in C (BWV 846) ~3 mn"
+    },
+    {
+     "piece": "The Stormy Sea",
+     "composer": "Anne Crosby Gaudet",
+     "performers": [
+      {
+       "name": "Adam B.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1 min",
+     "minutes": 1,
+     "wip": false,
+     "original": "Adam - The Stormy Sea by Anne Crosby Gaudet ~ 1 mn"
+    },
+    {
+     "piece": "Ukrainian Bell Carol (Shchedryk)",
+     "composer": "Mykola Leontovych",
+     "performers": [
+      {
+       "name": "Ivy T.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~1 min",
+     "minutes": 1,
+     "wip": false,
+     "original": "Ivy - Ukrainian Bell Carol by M Leontovich ~ 1 mn"
+    },
+    {
+     "piece": "Prelude in E major, Op. 11 No. 9",
+     "composer": "Alexander Scriabin",
+     "performers": [
+      {
+       "name": "Megan W.",
+       "instrument": "Piano"
+      }
+     ],
+     "length": "~2 min",
+     "minutes": 2,
+     "wip": false,
+     "original": "Megan - Scriabin - 24 Preludes, Op. 11 No. 9 ~ 2mn"
+    },
+    {
+     "piece": "Cello Suite No. 1 in G major, BWV 1007: Minuets I & II",
+     "composer": "Johann Sebastian Bach",
+     "performers": [
+      {
+       "name": "Kaylene D.",
+       "instrument": "Viola"
+      }
+     ],
+     "length": "~3.5 min",
+     "minutes": 3.5,
+     "wip": false,
+     "original": "Kaylene, viola – JS Bach Suite No 1 Menuetto 1&2 3.5 mn"
+    }
+   ]
+  }
+ ]
+}

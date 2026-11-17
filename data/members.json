@@ -1,0 +1,138 @@
+{
+ "Adam": {
+  "display": "Adam B.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Alan": {
+  "display": "Alan L.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Barbara": {
+  "display": "Barbara L.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Claude": {
+  "display": "Claude V.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Dorothy": {
+  "display": "Dorothy W.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Edel": {
+  "display": "Edel L.",
+  "instruments": [
+   "Flute"
+  ]
+ },
+ "Graham": {
+  "display": "Graham E.",
+  "instruments": [
+   "Voice",
+   "Piano"
+  ]
+ },
+ "Helen": {
+  "display": "Helen L.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Ivy": {
+  "display": "Ivy T.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Joanne": {
+  "display": "Joanne M.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Kathleen": {
+  "display": "Kathleen B.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Kaylene": {
+  "display": "Kaylene D.",
+  "instruments": [
+   "Violin",
+   "Viola"
+  ]
+ },
+ "Linda": {
+  "display": "Linda M.",
+  "instruments": [
+   "Piano",
+   "Voice"
+  ]
+ },
+ "Lorne": {
+  "display": "Lorne W.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Maki": {
+  "display": "Maki M.",
+  "instruments": [
+   "Violin"
+  ]
+ },
+ "Marc-André": {
+  "display": "Marc-André F.",
+  "instruments": [
+   "Voice"
+  ]
+ },
+ "Megan": {
+  "display": "Megan W.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Nami": {
+  "display": "Nami P.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Nicole A.": {
+  "display": "Nicole A.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Nicole G.": {
+  "display": "Nicole G.",
+  "instruments": [
+   "Voice"
+  ]
+ },
+ "Ron": {
+  "display": "Ron R.",
+  "instruments": [
+   "Guitar"
+  ]
+ },
+ "Sandra": {
+  "display": "Sandra L.",
+  "instruments": [
+   "Piano",
+   "Cello"
+  ]
+ }
+}

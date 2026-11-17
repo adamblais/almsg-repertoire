@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Repertoire Archive · Adults Learning Music Group</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <p class="eyebrow">Adults Learning Music Group</p>
+    <h1>Repertoire Archive</h1>
+    <div class="ornament" aria-hidden="true"><span></span>&#9670;<span></span></div>
+    <p class="lede">Every piece from our meeting programs, so you can see whether a work has been played before.</p>
+  </header>
+
+  <main>
+    <section class="search" aria-label="Search and filters">
+      <label class="visually-hidden" for="q">Search by piece</label>
+      <input id="q" type="search" placeholder="Search a piece…  e.g. Gnossienne" autocomplete="off" spellcheck="false">
+
+      <button class="filters-toggle" type="button" aria-expanded="false" aria-controls="filters">Filters</button>
+      <div id="filters" class="filters">
+        <label>Composer <select id="composer"><option value="">All composers</option></select></label>
+        <label>Performer <select id="performer"><option value="">All performers</option></select></label>
+        <label>Instrument <select id="instrument"><option value="">All instruments</option></select></label>
+        <fieldset class="segmented">
+          <legend>Meeting</legend>
+          <label><input type="radio" name="format" value="" checked><span>All</span></label>
+          <label><input type="radio" name="format" value="In person"><span>In person</span></label>
+          <label><input type="radio" name="format" value="Zoom"><span>Zoom</span></label>
+        </fieldset>
+        <label>From <input id="from" type="date"></label>
+        <label>To <input id="to" type="date"></label>
+        <label>Min. length <span class="unit"><input id="minLen" type="number" min="0" step="0.5" inputmode="decimal" placeholder="0"> min</span></label>
+        <label>Max. length <span class="unit"><input id="maxLen" type="number" min="0" step="0.5" inputmode="decimal" placeholder="any"> min</span></label>
+      </div>
+      <div class="summary">
+        <p id="count" aria-live="polite"></p>
+        <button id="clear" type="button" class="link">Clear all filters</button>
+      </div>
+    </section>
+
+    <table class="results">
+      <thead>
+        <tr>
+          <th scope="col"><button data-sort="date">Date</button></th>
+          <th scope="col"><button data-sort="piece">Piece &amp; composer</button></th>
+          <th scope="col"><button data-sort="performer">Performer</button></th>
+          <th scope="col" class="num"><button data-sort="minutes">Length</button></th>
+          <th scope="col"><button data-sort="format">Meeting</button></th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <p id="empty" class="empty" hidden>No performances found. It may not have been played since September 2026.</p>
+  </main>
+
+  <footer>
+    <p>Compiled from ALMSG meeting programs since September 2026. Programs list planned pieces; <abbr title="work in progress">WIP</abbr> marks works in progress.</p>
+    <p id="updated"></p>
+    <p><a href="https://www.adultslearningmusic.com">adultslearningmusic.com</a></p>
+  </footer>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
