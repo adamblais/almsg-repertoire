@@ -37,8 +37,7 @@
      "length": "~3 min",
      "minutes": 3,
      "wip": false,
-     "original": "Kathleen and Kaylene - Hallelujah by Leonard Cohen ~ 3 mn",
-     "check": true
+     "original": "Kathleen and Kaylene - Hallelujah by Leonard Cohen ~ 3 mn"
     },
     {
      "piece": "Sonatina in C major, Op. 36 No. 1: I. Allegro",
@@ -148,8 +147,7 @@
      "length": "1.5–3 min",
      "minutes": 2.25,
      "wip": false,
-     "original": "Kathleen and Kaylene - Leonard Cohen’s Hallelujah, between 1.5 to 3 mn",
-     "check": true
+     "original": "Kathleen and Kaylene - Leonard Cohen’s Hallelujah, between 1.5 to 3 mn"
     },
     {
      "piece": "Make You Feel My Love",
@@ -157,7 +155,7 @@
      "performers": [
       {
        "name": "Linda M.",
-       "instrument": "Voice"
+       "instrument": "Piano"
       },
       {
        "name": "Nicole G.",
@@ -167,8 +165,7 @@
      "length": "~3.5 min",
      "minutes": 3.5,
      "wip": false,
-     "original": "Linda and Nicole G., voice - “Make You Feel My Love” by Bob Dylan ~ 3.5 mn.",
-     "check": true
+     "original": "Linda and Nicole G., voice - “Make You Feel My Love” by Bob Dylan ~ 3.5 mn."
     },
     {
      "piece": "Ordinary World",
@@ -762,8 +759,7 @@
      "length": "~1.5 min",
      "minutes": 1.5,
      "wip": true,
-     "original": "Nicole H.: Thinking of Summer by Catherine Rollin (WIP) ~ 1.5 mn",
-     "check": true
+     "original": "Nicole H.: Thinking of Summer by Catherine Rollin (WIP) ~ 1.5 mn"
     },
     {
      "piece": "Song Without Words, Op. 30 No. 3 “Consolation” (excerpt)",
@@ -813,14 +809,13 @@
      "performers": [
       {
        "name": "Nami P.",
-       "instrument": "Piano"
+       "instrument": "Violin"
       }
      ],
      "length": "~5 min",
      "minutes": 5,
      "wip": false,
-     "original": "Nami: Concertino in G Major Op. 8, No. 4 by Adolf Huber ~ 5 mn",
-     "check": true
+     "original": "Nami: Concertino in G Major Op. 8, No. 4 by Adolf Huber ~ 5 mn"
     },
     {
      "piece": "Fantasia No. 12 in A minor (3 movements)",
@@ -966,7 +961,7 @@
      "performers": [
       {
        "name": "Linda M.",
-       "instrument": "Voice"
+       "instrument": "Piano"
       },
       {
        "name": "Nicole G.",
@@ -976,8 +971,7 @@
      "length": "3.5–4 min",
      "minutes": 3.75,
      "wip": false,
-     "original": "Linda and Nicole G., voice - \"Make You Feel My Love\" by Bob Dylan. ~ 3.5-4 mn",
-     "check": true
+     "original": "Linda and Nicole G., voice - \"Make You Feel My Love\" by Bob Dylan. ~ 3.5-4 mn"
     },
     {
      "piece": "Perfect Day",
