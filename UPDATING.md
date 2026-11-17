@@ -63,7 +63,7 @@ Update `"updated"` to today's date. Update a member's `instruments` in `members.
 
 ```
 python3 -I tools/validate.py data
-node --test tests/
+node --test tests/*.test.mjs
 ```
 
 Both must pass. Fix any PROBLEM lines. CHECK lines are fine to commit, but list them in your report.
