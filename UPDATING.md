@@ -28,7 +28,8 @@ saved to a JSON file; pass that file's path to:
 python3 -I tools/extract_docx.py <saved-json-path> <empty-scratch-dir>
 ```
 
-It prints the subject, the date and the program text.
+It prints the subject, the date and the program text. For program files given directly
+(e.g. older programs), run `python3 -I tools/extract_docx.py <file.docx> [...]`.
 
 ## 3. Add the meeting
 
@@ -50,6 +51,10 @@ For each entry, follow these rules:
 - Instrument per performer: what the line says; if none, **Piano**. With two or more performers and one
   instrument listed, give it to the performers whose `members.json` instruments include it and Piano to
   the rest. "piano duet" → all Piano. "tenor"/"soprano" → "Voice". If you can't tell, set `"check": true`.
+  Someone playing two instruments at once ("Ron, guitar and voice") is listed once per instrument
+  (`{"name": "Ron R.", "instrument": "Guitar"}, {"name": "Ron R.", "instrument": "Voice"}`); the page merges them.
+- A line listing several pieces for one performer gives one entry per piece. Pieces with no composer
+  given and none known: composer "Unknown". Unknown length: `"length": ""`, `"minutes": null`.
 - `piece` / `composer`: tidy spelling and capitalization; use the composer's full common name, matching
   names already used in the data (search the file first so the same composer is always spelled the same way).
 - `length` as written, tidied (e.g. "~3 min", "3–4 min", "~30 sec"); `minutes` as a number (ranges → midpoint,

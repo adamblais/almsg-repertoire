@@ -1,6 +1,26 @@
-"""Extract .docx attachments from a Gmail RAW get_message JSON dump and print their text."""
-import base64, email, json, sys, io, zipfile, re, os
+"""Print the text of meeting programs.
+
+Usage:
+  python3 -I tools/extract_docx.py <gmail-raw.json> <outdir>   # Gmail RAW get_message dump: save + print .docx attachments
+  python3 -I tools/extract_docx.py <program.docx> [...]         # print local .docx files
+"""
+import base64, email, html, json, sys, io, zipfile, re, os
 from email import policy
+
+
+def docx_text(data):
+    xml = zipfile.ZipFile(io.BytesIO(data)).read('word/document.xml').decode()
+    xml = re.sub(r'</w:p>', '\n', xml)
+    xml = re.sub(r'</w:tc>', ' | ', xml)
+    xml = re.sub(r'<w:tab/>', '\t', xml)
+    return html.unescape(re.sub(r'<[^>]+>', '', xml))
+
+
+if sys.argv[1].lower().endswith('.docx'):
+    for path in sys.argv[1:]:
+        print('=== File:', os.path.basename(path))
+        print(docx_text(open(path, 'rb').read()))
+    sys.exit(0)
 
 src, outdir = sys.argv[1], sys.argv[2]
 d = json.load(open(src))
@@ -14,12 +34,4 @@ for part in msg.iter_attachments():
     open(path, 'wb').write(data)
     print('saved', path)
     if name.lower().endswith('.docx'):
-        z = zipfile.ZipFile(io.BytesIO(data))
-        xml = z.read('word/document.xml').decode()
-        # paragraphs and table cells
-        xml = re.sub(r'</w:p>', '\n', xml)
-        xml = re.sub(r'</w:tc>', ' | ', xml)
-        xml = re.sub(r'<w:tab/>', '\t', xml)
-        text = re.sub(r'<[^>]+>', '', xml)
-        import html
-        print(html.unescape(text))
+        print(docx_text(data))

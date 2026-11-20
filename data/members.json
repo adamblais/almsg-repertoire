@@ -32,7 +32,10 @@
  "Edel": {
   "display": "Edel L.",
   "instruments": [
-   "Flute"
+   "Flute",
+   "Piano",
+   "Voice",
+   "Ukulele"
   ]
  },
  "Graham": {
@@ -76,7 +79,8 @@
  "Linda": {
   "display": "Linda M.",
   "instruments": [
-   "Piano"
+   "Piano",
+   "Voice"
   ]
  },
  "Lorne": {
@@ -119,13 +123,15 @@
  "Nicole G.": {
   "display": "Nicole G.",
   "instruments": [
-   "Voice"
+   "Voice",
+   "Violin"
   ]
  },
  "Ron": {
   "display": "Ron R.",
   "instruments": [
-   "Guitar"
+   "Guitar",
+   "Voice"
   ]
  },
  "Sandra": {
@@ -133,6 +139,30 @@
   "instruments": [
    "Piano",
    "Cello"
+  ]
+ },
+ "Jennifer": {
+  "display": "Jennifer E.",
+  "instruments": [
+   "Voice"
+  ]
+ },
+ "Shauna": {
+  "display": "Shauna O.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Nita": {
+  "display": "Nita G.",
+  "instruments": [
+   "Piano"
+  ]
+ },
+ "Frank": {
+  "display": "Frank M.",
+  "instruments": [
+   "Piano"
   ]
  }
 }

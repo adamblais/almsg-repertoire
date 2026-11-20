@@ -87,3 +87,13 @@ export function facets(rows) {
     instruments: counted(rows.flatMap(r => [...new Set(r.performers.map(p => p.instrument))])),
   };
 }
+
+export function performerLines(performers) {
+  const byName = new Map();
+  for (const p of performers) {
+    if (!byName.has(p.name)) byName.set(p.name, { name: p.name, instruments: [] });
+    const line = byName.get(p.name);
+    if (!line.instruments.includes(p.instrument)) line.instruments.push(p.instrument);
+  }
+  return [...byName.values()];
+}

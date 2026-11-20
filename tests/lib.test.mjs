@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { normalize, flatten, filterRows, sortRows, stateFromQuery, stateToQuery, facets, emptyState } from '../lib.js';
+import { normalize, flatten, filterRows, sortRows, stateFromQuery, stateToQuery, facets, emptyState, performerLines } from '../lib.js';
 
 const perf = (piece, composer, performers, minutes) => ({
   piece, composer, minutes, length: '', wip: false, original: piece,
@@ -95,4 +95,11 @@ test('search matches composer as well as piece', () => {
   assert.deepEqual(run({ q: 'satie' }), ['Gnossienne No. 1']);
   assert.equal(run({ q: 'chopin' }).length, 2);
   assert.equal(run({ q: 'frederic' }).length, 2);
+});
+
+test('performerLines merges one person playing two instruments', () => {
+  const lines = performerLines([
+    { name: 'Linda M.', instrument: 'Piano' }, { name: 'Linda M.', instrument: 'Voice' }, { name: 'Edel L.', instrument: 'Flute' },
+  ]);
+  assert.deepEqual(lines, [{ name: 'Linda M.', instruments: ['Piano', 'Voice'] }, { name: 'Edel L.', instruments: ['Flute'] }]);
 });

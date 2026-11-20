@@ -1,4 +1,4 @@
-import { flatten, filterRows, sortRows, stateFromQuery, stateToQuery, facets, emptyState } from './lib.js';
+import { flatten, filterRows, sortRows, stateFromQuery, stateToQuery, facets, emptyState, performerLines } from './lib.js';
 
 const $ = id => document.getElementById(id);
 const FIELDS = ['q', 'composer', 'performer', 'instrument', 'from', 'to', 'minLen', 'maxLen'];
@@ -24,7 +24,7 @@ function writeControls() {
 
 function rowHtml(r) {
   const wip = r.wip ? ' <span class="badge" title="work in progress">WIP</span>' : '';
-  const who = r.performers.map(p => `<li>${esc(p.name)} <span class="inst">${esc(p.instrument)}</span></li>`).join('');
+  const who = performerLines(r.performers).map(p => `<li>${esc(p.name)} <span class="inst">${esc(p.instruments.join(' & '))}</span></li>`).join('');
   return `<tr>
     <td class="date" data-label="Date">${fmtDate(r.date)}</td>
     <td class="piece" data-label="Piece"><span class="title">${esc(r.piece)}</span>${wip}<span class="composer">${esc(r.composer)}</span></td>
