@@ -45,6 +45,8 @@ Append a meeting object to `meetings` in `data/performances.json` (keep the list
 For each entry, follow these rules:
 
 - `performers`: `[{"name", "instrument"}]` using the `display` names in `data/members.json`.
+  Each performer's instrument must be in their `instruments` list there (the validator enforces this),
+  so for duets read the roster: e.g. "Graham and Marc-André, voice" = Graham piano, Marc-André voice.
   A new performer: add them to `members.json` as first name + last initial, taken from the display names
   on the program email's recipient list (e.g. "Jane Smithson" → "Jane S."). **Never write a full surname.**
   If no surname can be found, use the first name alone.

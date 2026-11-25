@@ -15,6 +15,7 @@ REQUIRED = ("piece", "composer", "performers", "length", "minutes", "wip", "orig
 def validate(data, members):
     problems, checks = [], []
     displays = {m["display"] for m in members.values()}
+    roster = {m["display"]: set(m.get("instruments", [])) for m in members.values()}
     meetings = data.get("meetings")
     if not isinstance(meetings, list):
         return ["meetings must be a list"], []
@@ -49,6 +50,8 @@ def validate(data, members):
                     problems.append(f"{where}: {name!r} looks like a full surname; use first name + initial")
                 elif name not in displays:
                     problems.append(f"{where}: {name!r} is not in members.json")
+                elif inst not in roster[name]:
+                    problems.append(f"{where}: {name} plays {inst!r}, which is not in their members.json instruments")
                 if not inst or inst != inst[:1].upper() + inst[1:] or inst != inst.title():
                     problems.append(f"{where}: instrument {inst!r} must be Title Case")
             key = (p.get("piece", "").lower(), tuple(sorted(x.get("name", "") for x in perfs)))

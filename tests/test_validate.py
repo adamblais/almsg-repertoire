@@ -71,6 +71,10 @@ class ValidateTests(unittest.TestCase):
         self.assertEqual(code, 0, out)
         self.assertIn('CHECK:', out)
 
+    def test_instrument_not_in_roster_fails(self):
+        code, out = run(with_perf(performers=[{"name": "Helen L.", "instrument": "Voice"}]))
+        self.assertEqual(code, 1); self.assertIn('instruments', out)
+
     def test_unknown_performer_fails(self):
         code, out = run(with_perf(performers=[{"name": "Zed Q.", "instrument": "Piano"}]))
         self.assertEqual(code, 1); self.assertIn('members.json', out)
